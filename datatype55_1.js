@@ -1,7 +1,5 @@
-let arr = ["I", "go", "home"];
+let arr = ["I", "study", "JavaScript"];
 
-delete arr[1];
+arr.splice(1, 2); 
 
-console.log( arr[1]);
-
-console.log( arr.length);
+console.log( arr );
