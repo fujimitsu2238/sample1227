@@ -2,7 +2,7 @@ let lesson ={ student: {name:"john" ,age: 20}} ;
 
 let obj2 ={student: 30                    };
 
-let student = {20,"30",40};
+let student = [20,"30",40];
 
 console.log( lesson.student.name);
 
