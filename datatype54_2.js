@@ -19,7 +19,7 @@ let mixArr = ["Apple",{name:"john"}, true,function(){console.log("Hello")}];
 console.log( mixArr[1].name);
 console.log( mixArr[3]());
 
-for (let 1 =0;1< fruits.length;i++){
+for (let i =0;1< fruits.length;i++){
     console.log( fruits[1]);
 }
 
